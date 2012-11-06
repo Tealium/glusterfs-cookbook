@@ -1,4 +1,4 @@
-maintainer       "Jacobo García"
+maintainer       "Jacobo Garcia"
 maintainer_email "jacobo.garcia@gmail.com"
 license          "Apache 2.0"
 description      "Installs and configures GlusterFS"
